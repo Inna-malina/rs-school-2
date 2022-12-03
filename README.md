@@ -1,1 +1,1 @@
-# rs-school-2
+### News Api - it is simple HTTP REST API for sirching and pulling news from whole internet
